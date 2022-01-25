@@ -1,0 +1,1 @@
+This project was the one that got me into programming. I might improve/change some things overtime ;)
